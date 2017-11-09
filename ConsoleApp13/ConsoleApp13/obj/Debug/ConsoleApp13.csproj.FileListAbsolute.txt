@@ -1,7 +1,18 @@
-C:\Users\VIP\Documents\Visual Studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
-C:\Users\VIP\Documents\Visual Studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
-C:\Users\VIP\Documents\Visual Studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
-C:\Users\VIP\Documents\Visual Studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
-C:\Users\VIP\Documents\Visual Studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
-C:\Users\VIP\Documents\Visual Studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
-C:\Users\VIP\Documents\Visual Studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:/Users/VIP/Documents/Visual Studio 2017/Projects/ConsoleApp13/ConsoleApp13/bin/Debug/ConsoleApp13.exe.config
+C:/Users/VIP/Documents/Visual Studio 2017/Projects/ConsoleApp13/ConsoleApp13/bin/Debug/ConsoleApp13.exe
+C:/Users/VIP/Documents/Visual Studio 2017/Projects/ConsoleApp13/ConsoleApp13/bin/Debug/ConsoleApp13.pdb
+C:/Users/VIP/Documents/Visual Studio 2017/Projects/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.csprojResolveAssemblyReference.cache
+C:/Users/VIP/Documents/Visual Studio 2017/Projects/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.csproj.CoreCompileInputs.cache
+C:/Users/VIP/Documents/Visual Studio 2017/Projects/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.exe
+C:/Users/VIP/Documents/Visual Studio 2017/Projects/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.pdb
+/Users/BaeBae/Documents/Project/StockAnalysis/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.csprojResolveAssemblyReference.cache
+/Users/BaeBae/Documents/Project/StockAnalysis/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.csproj.CoreCompileInputs.cache
+/Users/BaeBae/Documents/Project/StockAnalysis/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.exe
+/Users/BaeBae/Documents/Project/StockAnalysis/ConsoleApp13/ConsoleApp13/obj/Debug/ConsoleApp13.pdb
+\\Mac\Home\Documents\Project\StockAnalysis\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+\\Mac\Home\Documents\Project\StockAnalysis\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+\\Mac\Home\Documents\Project\StockAnalysis\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+\\Mac\Home\Documents\Project\StockAnalysis\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Project\StockAnalysis\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Project\StockAnalysis\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+\\Mac\Home\Documents\Project\StockAnalysis\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
